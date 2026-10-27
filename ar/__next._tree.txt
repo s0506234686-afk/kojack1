@@ -1,0 +1,12 @@
+:HL["/kojack1/_next/static/chunks/2yp0akhp3jnkh.css","style"]
+:HL["/kojack1/_next/static/media/06265ba6950e841c-s.p.1rne3a59172go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kojack1/_next/static/media/35a31ebad3e15f14-s.p.0c7ha31nuacbu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kojack1/_next/static/media/3b5f3cdc08f76084-s.p.2vs72h_x6qrve.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kojack1/_next/static/media/4237cb37ca93cea7-s.p.1fbvi_fot8u4l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kojack1/_next/static/media/861d9be630ba44be-s.p.0da8nscnv1nkd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kojack1/_next/static/media/8a0c322f60e47dd1-s.p.3ihiqn4pviisd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kojack1/_next/static/media/941d061a2bd9e7fe-s.p.3ik2qu-u9tgho.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kojack1/_next/static/media/ae8a6189deba2b59-s.p.29a202atpp3ye.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":[]},"h":65648,"c":"$Q2"}]]
+0:{"b":"bOKMDLIO3f_EM0QIi0hWp","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
